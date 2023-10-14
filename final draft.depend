@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685103762 source:c:\everything\study\csci112\assign3\final draft\main.cpp
+	<iostream>
+	<string>
+	"student.h"
+
+1685103364 c:\everything\study\csci112\assign3\final draft\student.h
+
+1685103417 source:c:\everything\study\csci112\assign3\final draft\student.cpp
+	<iostream>
+	<string>
+	"student.h"
+
